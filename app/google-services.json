@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "729230822033",
+    "firebase_url": "https://cloudsender-7ce32.firebaseio.com",
+    "project_id": "cloudsender-7ce32",
+    "storage_bucket": "cloudsender-7ce32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729230822033:android:907b5b45c8d20b7e",
+        "android_client_info": {
+          "package_name": "com.example.ailton.pushnotificationtester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729230822033-mghng8cb0aasf6i7eq3q3r9dl0irlvj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhw93cVzkLmVVfv5q1tPh8d2nUd67uevc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
